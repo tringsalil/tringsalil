@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tringsalil
+- 👋 Hi, I’m @tringsalil(Salil Kaul)
 - 👀 I’m interested in Android ,React Native
-- 🌱 I’m currently learning Kotlin, Android Architecture components
+- 🌱 I’m currently learning Kotlin, Android Architecture components, Android TV
 - 📫 How to reach me salil.k@tringapps.com
 
 <!---
